@@ -1,1 +1,1 @@
-# Gold_Price_prediction-ML
+Predicting gold prices using fundamental Machine Learning techniques. This project utilizes Python libraries like Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn to preprocess data, engineer features, and build a predictive model. The goal is to analyze historical gold price data and create visualizations to uncover trends and patterns that can inform future price predictions. Perfect for anyone interested in applying data science to financial markets.
